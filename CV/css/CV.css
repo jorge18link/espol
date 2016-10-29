@@ -1,0 +1,38 @@
+
+		h1{
+			font-family: sans-serif;
+		}
+		li{
+			display: inline;
+			margin: 10px;
+		}
+		.contenedor{
+			width: 700px;
+			padding-bottom: 30px;
+		}
+		.menu{
+			float: left;
+			width: 150px;
+			color: darkorange;
+			text-transform: uppercase;
+		}
+		.contenido{
+			float: left;
+			width: 550px;
+		}
+		.separador{
+			clear: both;
+			height: 1px;
+		}
+		.titulo{
+			font-weight: bold;
+			font-size: 110%
+			
+		}
+		.subtitulo{
+			font-weight: bold;
+		
+		}
+		.pcontenido{
+			color: gray;
+		}
